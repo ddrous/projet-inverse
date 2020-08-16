@@ -132,7 +132,7 @@ vector_t niche(int N,int n_niche, double y_min, double y_max, int n_smooth){
         /* Les memes attributs a chaque fois */
         attr[k][0] = (int)(0.7*N);                     // position
         attr[k][1] = (int)(0.1*N);                    // largeur
-        attr[k][2] = 1;                                 // hauteur
+        attr[k][2] = 8;                                 // hauteur
 
         /* 2 crenaux bien differents */
         // attr[0][0] = 100;                     // position

@@ -42,8 +42,8 @@ int main(int argc, char * argv[]){
         /* Exportation */
         Exporter ex = Exporter(&s);
         cout << "\nExportation des resultats en cours ..." << endl;
-        ex.spatial(cfg.values["export_spatial"], "append");
-        ex.temporal(cfg.values["export_temporal"], "append");
+        ex.spatial(cfg.values["export_spatial"], "trunc");
+        ex.temporal(cfg.values["export_temporal"], "trunc");
 
         ex.case_1("data/case_1_spatial.csv", "data/case_1_temporal.csv");
         ex.case_2("data/case_2_spatial.csv", "data/case_2_temporal.csv");
