@@ -5,8 +5,8 @@ Résolution du problème inverse de propagation de la lumière par la méthode d
 
 ### Documents
 - Indications et travail à faire: `doc/guidelines/projetM1.pdf`  
-- Rapport de stage en français: `doc/fr/rapport.pdf`  
-- Rapport en anglais: `doc/eng/report.pdf`  
+- Rapport de projet en anglais: `doc/eng/report.pdf`  
+- Rapport de stage en français (pour la 2D): `doc/fr/rapport.pdf`  
 
 ## __1ère partie: Résolution de l'EDP__    
 _Les commandes indiquées sont à exécuter à partir du répertoire racine du projet._
