@@ -38,7 +38,7 @@ __Format des fichiers de configuration:__
 - Analyse des données: [`src/notebook/analyse_des_donnees.ipynb`](https://github.com/desmond-rn/projet-inverse/blob/master/src/notebook/analyse_des_donnees.ipynb).  
 
 ## __2ème partie: Reconstruction de la densité__   
-- Apprentissage: [`src/notebook/reseaux_de_neurones.ipynb`](https://github.com/desmond-rn/projet-inverse/blob/master/src/notebook/Apprentissage.ipynb).
+- Apprentissage: [`src/notebook/Apprentissage.ipynb`](https://github.com/desmond-rn/projet-inverse/blob/master/src/notebook/Apprentissage.ipynb).
 
 ## Ressources utilisées:
 - __muParser__ pour transformer des expressions en fonctions: [Exemple](https://beltoforion.de/article.php?a=muparser&s=idExample#idExample) - [Instructions](https://beltoforion.de/article.php?a=muparser&p=building)
